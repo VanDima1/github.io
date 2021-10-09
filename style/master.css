@@ -17,6 +17,7 @@ header{
   height: 10vh;
   margin: auto;
   background-color: rgba(87, 91, 193, 0.5);
+  border: 5px rgba(238, 158, 79, 0.2);
 }
 
 main{
