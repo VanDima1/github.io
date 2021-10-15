@@ -1,6 +1,6 @@
 /**
 
-  швблон 01
+  шаблон 01
 
 **/
 
@@ -9,22 +9,24 @@ html{
 }
 
 body{
-  background-color: rgba(91, 96, 199,0.5);
+  background-color: rgba(147, 113, 163, 0.5);
 }
 
 header{
   width: 90vw;
-  height: 10vh;
+  height: 15vh;
   margin: auto;
-  background-color: rgba(87, 91, 193, 0.5);
-  border: 5px rgba(238, 158, 79, 0.2);
+  background-color: rgba(255, 211, 13, 0.5);
+  border: 7px solid #d19595;
 }
+
 
 main{
   width: 90vw;
   height: 80vh;
   margin: auto;
   background-color: rgba(82, 122, 201, 0.43);
+  border: 7px solid rgba(99, 17, 116, 0.616) 
 }
 
 footer{
@@ -32,4 +34,5 @@ footer{
   height: 10vh;
   margin: auto;
   background-color: rgba(55, 42, 198, 0.5);
+  border: 7px solid rgba(194, 100, 7, 0.568)
 }
