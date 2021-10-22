@@ -3,7 +3,8 @@
 Этапы разработки пректа:
 
 
- разработал эскиз своей будушей страницы https://www.figma.com/file/4nRQXDpxYMnG73QsZvPy43/Untitled?node-id=0%3A1   
+ Разработал эскиз своей будушей страницы https://www.figma.com/file/4nRQXDpxYMnG73QsZvPy43/Untitled?node-id=0%3A1   
  
  
- по созданному шаблону 
+ В Visual Studio Code с помощью данного шаблона http://web-master.ultimatefreehost.in/templates/tpl-01/ создаю простейший сайт.
+ 
