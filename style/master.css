@@ -45,12 +45,25 @@ div{
   padding: 10px;
 }
 #glav1{
+  display:flex;
+  justify-content: space-between;
   width: 90vw;
   height: 30vh;
   margin: auto;
   border: 7px solid rgb(150, 32, 91);
   background-color: brown;
-}
-.left{
   
 }
+#left{
+  width: 18vw;
+  height: 27vh 
+}
+#center{
+  width: 40vw;
+  height: 28vh;
+}
+#right{
+width: 18vw;
+height: 27vh;
+}
+
